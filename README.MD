@@ -1,6 +1,10 @@
 CRIAÇÃO DO CLONE DA NETFLIX
 
 Técnologias usadas:
+
+
 HTMl
-CSSgit
+
+CSS
+
 JS
