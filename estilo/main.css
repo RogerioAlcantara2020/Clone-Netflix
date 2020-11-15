@@ -127,3 +127,17 @@ footer .assinatura{
     color:white;
     font-family: Arial;
 }
+
+.trailler{
+    display: none;
+}
+.box-trailler{
+    float:inline-start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:-884px;
+    z-index: 100;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .70);
+}

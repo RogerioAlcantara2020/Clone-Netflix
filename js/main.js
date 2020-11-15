@@ -15,3 +15,11 @@ $('.owl-carousel').owlCarousel({
     }
 })
 
+function trailler_mostra(){
+   $('#box-trailler').addClass('box-trailler');
+   $('#box-trailler').show();
+}
+
+function trailler_esconde(){
+    $('#box-trailler').hide();
+}
