@@ -30,6 +30,10 @@ header .logo {
     font-size: 40px;
 }
 
+header .logo:hover{
+    cursor: pointer;
+}
+
 header nav a {
     text-decoration: none;
     color: #aaa; 
@@ -65,6 +69,14 @@ header nav a:hover {
 .titulo{
     margin-top: 15%;
     font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo-secao{
+    display: flex;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 18px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
